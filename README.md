@@ -38,7 +38,7 @@ ProjectRamen Lead Back-end developer
 
 #### License
 
-Project Ramen is [MIT](https://gitlab.com/Arxaid/projectramen/-/blob/master/LICENSE) licensed.
+Project Ramen is [MIT](https://github.com/Arxaid/ramen-bot/blob/work/LICENSE) licensed.
 
 
-![N|Solid](https://i.imgur.com/IwZaz76.png) Copyright © 2021 INVE Studios 
+![N|Solid](https://i.imgur.com/gNFnbSZ.png) Copyright © 2021 INVE Studios 
