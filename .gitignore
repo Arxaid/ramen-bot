@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+Handlers/
+Ramen.sln
+Ramen/Utilities/config.json
+Ramen/Ramen.csproj
+Ramen/Ramen.csproj.user
